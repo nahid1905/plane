@@ -1,0 +1,12 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url(../images/2.jpg);
+	background-size: cover;
+}
+.text{
+	width:30%;
+	position:absolute;
+	left:5%;
+	top:20%;
+}
